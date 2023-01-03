@@ -1,3 +1,6 @@
+
+[![PHP CI](https://github.com/biatl0n/hexlet-phpunit-/actions/workflows/workflow.yml/badge.svg)](https://github.com/biatl0n/hexlet-phpunit-/actions/workflows/workflow.yml)
+
 # php-package
 
 [![Github Actions Status](https://github.com/hexlet-boilerplates/php-package/workflows/PHP%20CI/badge.svg)](https://github.com/hexlet-boilerplates/php-package/actions)
